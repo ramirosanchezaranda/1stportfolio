@@ -919,7 +919,7 @@ section,
 }
 
 .services .service-item.item-cyan:hover .icon i {
-  color: #fff;
+  color: #1f1c1c;
 }
 
 .services .service-item.item-cyan:hover .icon path {
@@ -931,7 +931,7 @@ section,
 }
 
 .services .service-item.item-orange:hover .icon i {
-  color: #fff;
+  color: #0d0d0d;
 }
 
 .services .service-item.item-orange:hover .icon path {
@@ -943,7 +943,7 @@ section,
 }
 
 .services .service-item.item-teal:hover .icon i {
-  color: #fff;
+  color: #111010;
 }
 
 .services .service-item.item-teal:hover .icon path {
@@ -955,7 +955,7 @@ section,
 }
 
 .services .service-item.item-red:hover .icon i {
-  color: #fff;
+  color: #181616;
 }
 
 .services .service-item.item-red:hover .icon path {
@@ -979,7 +979,7 @@ section,
 }
 
 .services .service-item.item-pink:hover .icon i {
-  color: #fff;
+  color: #090909;
 }
 
 .services .service-item.item-pink:hover .icon path {
